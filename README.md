@@ -1,6 +1,6 @@
 # Striver-SDE-Sheet-Challenge by Striver
 
-Take the challenge at https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+Take the challenge at https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
 
 Striver SDE Sheet https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
